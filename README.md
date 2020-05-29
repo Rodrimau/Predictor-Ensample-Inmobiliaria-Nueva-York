@@ -1,4 +1,4 @@
-# Predictor-Ensample-Inmobiliaria-Nueva-York
+# Predictor-Ensamble-Inmobiliaria-Nueva-York
 Análisis de utilización de distintos Ensambles para predecir precios inmobiliarios de Nueva York
 El objetivo de este trabajo es construir modelos clasificadores basados en ensambles que permitan 
 evaluar distintos algoritmos a a hora de predecir y analizar el otorgamiento de préstamos hipotecarios. 
